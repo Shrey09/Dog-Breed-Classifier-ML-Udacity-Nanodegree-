@@ -1,6 +1,6 @@
 # Dog-Breed-Classifier-ML-Udacity-Nanodegree
 
-## Dog-breed-classifier using CNN and transfer learning in PyTorch
+## Dog-breed-classifier using CNN and transfer learning
 This is the repository of Dog breed classifier project in Udacity ML Nanodegree. 
 
 ### Dataset Download Instructions
@@ -44,8 +44,7 @@ To create <b>CNN with transfer learning</b>, I have selected the <b>Resnet101 ar
 which is pre-trained on ImageNet dataset, the architecture is 101 layers deep. The
 last convolutional output of Resnet101 is fed as input to our model. We only need
 to add a fully connected layer to produce 133-dimensional output (one for each
-dog category). The model performed extremely well when compared to CNN from
-scratch. With just 5 epochs, the model got 81% accuracy.</p>
+dog category).</p>
 
 ![Sample output for dog image](./output.PNG) 
 ![Sample output for human image](./human_image_output.PNG) 
