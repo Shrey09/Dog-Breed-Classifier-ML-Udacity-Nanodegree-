@@ -1,6 +1,6 @@
 # Dog-Breed-Classifier-ML-Udacity-Nanodegree
 
-## Dog-breed-classifier using CNN and transfer learning in PyTorch
+## Dog-breed-classifier using CNN and transfer learning
 This is the repository of Dog breed classifier project in Udacity ML Nanodegree. 
 
 ### Dataset Download Instructions
